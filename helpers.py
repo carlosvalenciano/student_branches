@@ -1,3 +1,2 @@
-greet = input('What is your name? ')
-
-print(f'Hello {greet}')
+def greet(name):
+    print(f'Hello, {name}')
